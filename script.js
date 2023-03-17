@@ -1,4 +1,4 @@
 //your code here
-let touristSpots = ['The Bangalore Palace', 'Cubbon Park', 'UB City'];
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 document.getElementById("band").innerHTML = touristSpots.sort();
